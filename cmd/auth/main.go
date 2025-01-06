@@ -1,7 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	fmt.Println("panic")
+	// var hs string
+	// hs= "helo world"
+	hs:= "helo world"
+	hs="tmp"
+	fmt.Println(hs)
+	
 }
